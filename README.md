@@ -1,2 +1,7 @@
-# demo-caccem-srl
-Demo web para Caccem SRL — diseñada por eterlab.
+# Caccem SRL
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
